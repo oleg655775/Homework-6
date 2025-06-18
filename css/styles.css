@@ -83,6 +83,7 @@ input {
 .header-list,
 .address {
   display: none;
+  font-style: normal;
 }
 
 .logo {
@@ -175,6 +176,7 @@ input {
 
 .mobile-address {
   margin-bottom: 48px;
+  font-style: normal;
 }
 
 .mobile-address-list {
@@ -373,6 +375,8 @@ input {
         url(../images/background/office-tab.jpg) 1x,
         url(../images/background/office-tab@2x.jpg) 2x
       );
+    background-size: 768px;
+    background-repeat: no-repeat;
   }
 
   .heading-title {
@@ -398,6 +402,8 @@ input {
         url(../images/background/people-office.jpg) 1x,
         url(../images/background/people-office@2x.jpg) 2x
       );
+    background-size: 1158px;
+    background-repeat: no-repeat;
   }
 
   .btn {
