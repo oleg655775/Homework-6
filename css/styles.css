@@ -402,8 +402,7 @@ input {
         url(../images/background/people-office.jpg) 1x,
         url(../images/background/people-office@2x.jpg) 2x
       );
-    background-size: 1158px;
-    background-repeat: no-repeat;
+    background-size: 1440px;
   }
 
   .btn {
